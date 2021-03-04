@@ -1,0 +1,12 @@
+{
+  "name": "countsProject",
+  "displayName": "countsProject",
+  "expo": {
+    "name": "countsProject",
+    "slug": "countsProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
